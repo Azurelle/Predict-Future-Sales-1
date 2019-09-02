@@ -1,9 +1,10 @@
 #+title: Predict Future Sales
 
-* Introduction
+** Introduction
 
-* Objective
+** Objective
 
-* Approach [/]
+** Approach [/]
 
-* Results
+** Results
+** How to run it
