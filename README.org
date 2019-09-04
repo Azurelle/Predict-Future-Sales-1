@@ -34,7 +34,30 @@ In this competition it's worked with a challenging time-series dataset consistin
 
 The main objective is to predict total sales for every product and store in the next month. Forecast the total amount of products sold in every shop for the test set. Knowing that the list of shops and products slightly changes every month, creating a robust model that can handle such situations.
 
-** Approach [/]
+** Approach
+
+*** Time Series Analysis
+
+A basic analysis to know the seasonality and trend of the dataset, as well as its stationarity.
+
+*** Data Wrangling
+
+*** Feature Engineering
+
+*** XGBoost
+
+*** Feature Selection
+
+*** Parameters Optimization
+
+** Tasks [0/6]
+
+- [ ] Basic Time Series Analysis
+- [ ] Data Wrangling
+- [ ] Feature Engineering
+- [ ] XGBoost
+- [ ] Feature Selection
+- [ ] Parameters Optimization
 
 ** Results
 ** How to run it
