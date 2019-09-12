@@ -50,9 +50,9 @@ A basic analysis to know the seasonality and trend of the dataset, as well as it
 
 *** Parameters Optimization
 
-** Tasks [0/6]
+** Tasks [1/6]
 
-- [ ] Basic Time Series Analysis
+- [X] Basic Time Series Analysis
 - [ ] Data Wrangling
 - [ ] Feature Engineering
 - [ ] XGBoost
